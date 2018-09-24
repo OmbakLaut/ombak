@@ -1,0 +1,2 @@
+# ombak
+bahan blog OmbakLaut
